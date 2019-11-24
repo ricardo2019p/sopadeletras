@@ -1,0 +1,49 @@
+{
+  "title": "lacelula",
+  "author": "Ricardo Paloma",
+  "school": "Institucion Educativa Medalla Milagrosa (Chaparral)",
+  "date": "23/11/19",
+  "langCodes": [
+    "es"
+  ],
+  "languages": {
+    "es": "español"
+  },
+  "areas": {
+    "es": "Ciencias Naturales"
+  },
+  "levelCodes": [
+    "SEC"
+  ],
+  "levels": {
+    "es": "Secundaria (12-16)"
+  },
+  "description": {
+    "es": "Con la presente actividad se busca que los estudiantes conozcan la celula animal y sus partes"
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "lacelula.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 6,
+  "totalSize": 65836,
+  "files": [
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imagen_celula_animal.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "lacelula.jclic",
+    "lacelula.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}
